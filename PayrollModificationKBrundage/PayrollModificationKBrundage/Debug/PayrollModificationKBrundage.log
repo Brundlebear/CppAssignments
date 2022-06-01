@@ -1,0 +1,8 @@
+﻿  HoursList.cpp
+  IDList.cpp
+  PayrollModificationKBrundage.cpp
+  WageList.cpp
+C:\Users\neunz\source\repos\PayrollModificationKBrundage\PayrollModificationKBrundage\WageList.cpp(12,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\neunz\source\repos\PayrollModificationKBrundage\PayrollModificationKBrundage\WageList.cpp(52,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PayrollModificationKBrundage.vcxproj -> C:\Users\neunz\source\repos\PayrollModificationKBrundage\Debug\PayrollModificationKBrundage.exe

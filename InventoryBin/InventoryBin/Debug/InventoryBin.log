@@ -1,0 +1,3 @@
+﻿  InventoryBin.cpp
+C:\Users\neunz\source\repos\InventoryBin\InventoryBin\InventoryBin.cpp(82): warning C4715: 'removeParts': not all control paths return a value
+  InventoryBin.vcxproj -> C:\Users\neunz\source\repos\InventoryBin\Debug\InventoryBin.exe
